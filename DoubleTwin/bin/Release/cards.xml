@@ -1,0 +1,25 @@
+<cards>
+	<card name="Bat" left="1" top="4" right="1" bottom="4" column="2" row="1"/>
+	<card name="Tork" left="5" top="1" right="5" bottom="4" column="8" row="1"/>
+	<card name="Emuk" left="4" top="4" right="4" bottom="3" column="1" row="2"/>
+	<card name="Worm" left="5" top="4" right="8" bottom="3" column="7" row="2"/>
+	<card name="Kobra Zero" left="3" top="7" right="3" bottom="2" column="6" row="1"/>
+	<card name="Slime" left="3" top="4" right="4" bottom="4" column="5" row="1"/>
+	<card name="The Seed" left="9" top="9" right="9" bottom="8" column="7" row="3"/>
+	<card name="Scaven" left="3" top="4" right="5" bottom="3" column="7" row="1"/>
+	<card name="Zoomba" left="5" top="5" right="5" bottom="5" column="2" row="2"/>
+	<card name="Pakkun" left="5" top="6" right="5" bottom="4" column="3" row="2"/>
+	<card name="Wasp" left="4" top="4" right="4" bottom="8" column="4" row="2"/>
+	<card name="Skeleton" left="3" top="2" right="3" bottom="2" column="3" row="1"/>
+	<card name="Red Wizard" left="1" top="6" right="1" bottom="2" column="4" row="1"/>
+	<card name="Octorac" left="2" top="3" right="2" bottom="3" column="1" row="1"/>
+	<card name="Spider" left="7" top="3" right="5" bottom="5" column="6" row="2"/>
+	<card name="A'tuin" left="6" top="3" right="6" bottom="5" column="5" row="2"/>
+	<card name="Clink" left="6" top="7" right="6" bottom="6" column="8" row="2"/>
+	<card name="Kefka's Ghost" left="10" top="5" right="5" bottom="5" column="3" row="3"/>
+	<card name="Kaeris" left="5" top="5" right="7" bottom="8" column="1" row="3"/>
+	<card name="Dopple" left="6" top="6" right="6" bottom="7" column="2" row="3"/>
+	<card name="Undead King" left="9" top="6" right="5" bottom="5" column="4" row="3"/>
+	<card name="Babamut" left="7" top="7" right="10" bottom="6" column="5" row="3"/>
+	<card name="Zephyros" left="5" top="10" right="5" bottom="10" column="6" row="3"/>
+</cards>
